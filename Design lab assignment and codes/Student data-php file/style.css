@@ -1,0 +1,64 @@
+body
+{
+	background-color:#003380;
+}
+
+a 
+{
+	margin-left:2%;
+	padding:10px 4px;
+	color:#fff;
+}
+
+h
+{
+	font-size:45px;
+	text-align: center;
+	margin-left:38%;
+}
+
+h1
+{
+	text-align:center;
+	color:#262626;
+	font-size:50px;
+	color:#fff;
+	 margin-top:15vh;
+}
+
+h2
+{
+	color: #fff;
+	text-align:center;
+	font-size:40px;
+	margin-top:10vh;
+}
+p
+{
+	font-size:30px;
+	font-family:ariel;
+	margin-left: 3%;
+	color:#ffcc00;
+}
+.wrapper
+{
+		text-align:center;
+		margin-top:2vh;
+	}
+.button{
+		text-align:center;
+		margin:6px 4px;
+		cursor:pointer;
+		background-color:#267326;
+		color:#fff;
+		padding:15px 32px;
+		border:none;
+		font-weight:bold;
+	}	 
+
+#visibility
+{
+	visibility:hidden;
+}
+
+	
